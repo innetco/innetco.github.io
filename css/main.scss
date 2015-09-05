@@ -249,8 +249,8 @@ $carousel-control-font-size:  3em;
 .site_footer { 
     background-color: $inn-color;
     padding: 3em 0;
-    a { color: #fff; }
-    a:hover { color: #000; }
+    a { color: $inn-blue; }
+    a:hover { color: lighten($inn-blue, 15%); }
 }
 
 // single page
