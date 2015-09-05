@@ -3,7 +3,7 @@ layout: page
 title: "Tạo mới"
 headline: "Thử tạo mới"
 permalink: /about/123/
-cover: http://lisatorracolaw.com/wp-content/uploads/2013/03/LisaTorracoSlider.jpg
+coverurl: http://lisatorracolaw.com/wp-content/uploads/2013/03/LisaTorracoSlider.jpg
 sub_nav: true
 parent: about
 sub_level: 005
