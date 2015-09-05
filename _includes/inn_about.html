@@ -16,26 +16,26 @@
         {% endif %}
     
      </div>
+    </div>
+    <div class="row">
+
+        {% if page.lang == "en" %}
+            {% assign sev = site.pages | where: "place", "about_section" | where: "lang", "en" | sort: "position" %}
+        {% else %}
+            {% assign sev = site.pages | where: "place", "about_section" | where: "lang", "vi" | sort: "position" %}
+        {% endif %}
+
+
+
+        {% for item in sev limit:4 %}
+            <div class="col-xs-12 col-sm-6 col-md-3 text-center">
+                <a href="{{ item.permalink }}">
+                <img class="img-responsive" src="{{ item.preview }}" alt="service">
+                <h4 class="sev_title text-center">{{ item.title }}</h4>
+                </a>
+                <p class="sev_desc text-center">{{ item.desc }}</p> 
+            </div>
+        {% endfor %}
+    </div>
 </div>
-<div class="row">
-{% for service in site.data.about %}
-<div class="col-xs-12 col-sm-6 col-md-3">
-    
-    {% if page.lang == "en" %}
-    
-	<img class="img-responsive" src="{{ service.preview }}" alt="service">
-	<h4 class="sev_title text-center"><a href="{{ service.linkto }}">{{ service.name_en }}</a></h4>
-	<p class="sev_desc text-center">{{ service.desc_en }}</p>
-    
-    {% else %}   
-    
-	<img class="img-responsive" src="{{ service.preview }}" alt="service">
-	<h4 class="sev_title text-center"><a href="{{ service.linkto }}">{{ service.name }}</a></h4>
-	<p class="sev_desc text-center">{{ service.desc }}</p>
-    
-    {% endif %}
-    
-</div>
-{% endfor %}
-</div>
-</div>
+

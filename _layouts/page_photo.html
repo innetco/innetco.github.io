@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header_single.html %}
+
+    <div class="container">
+
+<div class="row text-center">
+    
+    <h2 class="album_header">Hình ảnh hoạt động của Innetco</h2>
+
+	{% if page.lang == "en" %}
+		{% assign act = site.posts | where: "box", "inn_activities" | where: "lang", "en" %}
+	{% else %}
+		{% assign act = site.posts | where: "box", "inn_activities" | where: "lang", "vi" %}
+	{% endif %}
+
+
+		{% for post in act %}{% if post.album %}
+
+		<div class="col-xs-6 col-md-3">
+			<div class="act_item">
+				<a href="#" data-featherlight="{{ site.baseurl }}/{{ post.imagefolder }}/{{ post.full }}">
+					<img class="img-responsive" src="{{ site.baseurl }}/{{ post.imagefolder }}/{{ post.preview }}" alt="post">
+				</a>
+
+                <p class="readmore"><a href="{{ post.url }}">{{ post.title }}</a> <i class="fa fa-chevron-right"></i> </p>
+
+			</div>
+		</div>
+
+		{% endif %}{% endfor %}
+
+
+</div>
+
+
+    </div>
+
+    {% include inn_about.html %}
+    {% if page.lang == "en" %}{% include inn_bottom_en.html %}{% else %}{% include inn_bottom_vi.html %}{% endif %}
+    {% include footer.html %}
+
+    {% include script.html %}
+
+  </body>
+
+</html>

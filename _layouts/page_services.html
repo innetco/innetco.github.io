@@ -21,7 +21,7 @@
     <div class="section_hr_big"></div>
     {% include inn_activities.html %}
     <hr>
-    {% include inn_bottom.html %}
+    {% if page.lang == "en" %}{% include inn_bottom_en.html %}{% else %}{% include inn_bottom_vi.html %}{% endif %}
     {% include footer.html %}
 
     {% include script.html %}

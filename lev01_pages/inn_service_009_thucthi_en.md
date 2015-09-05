@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: "Intellectual Property Right enforcement works"
+title: "Right enforcement works"
 headline: "Intellectual Property Right enforcement works"
 permalink: /en/services/thucthi/
 cover: #

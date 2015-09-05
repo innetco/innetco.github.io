@@ -4,24 +4,39 @@
         <div class="customer_section_content text-center container">
 
             <img class="inn_logo" src="{{ site.baseurl }}/images/logo_temp.svg" alt="logo">
+            
             {% if page.lang == "en" %}
             
             <p class="section_title">customers say about us</p>
             <hr class="section_hr center-block"></hr>
-            <p class="customer_quote">This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
-            <p class="customer_name">Unitas Vietnam</p>
+
+            <div class="inn_slider">
+            {% for cq in site.data.customers_quote %}
+            <div class="inn_slider_item">
+              <p class="customer_quote">{{ cq.content_e }}</p>
+              <p class="customer_name">{{ cq.name }}</p>
+            </div>
+            {% endfor %}
+            </div>
             
+
             {% else %}
 
             <p class="section_title">nhận xét của khách hàng về dịch vụ</p>
             <hr class="section_hr center-block"></hr>
-            <p class="customer_quote">Trong thời buổi hàng nhái, hàng giả tràn lan như hiện nay, việc có được chứng nhận độc quyền giúp chúng yên tâm triển khai kinh doanh sản phẩm. Cám ơn Innetco đã nhiệt tình giúp đỡ chúng tôi hoàn tất các thủ tục pháp lý trong thời gian ngắn.</p>
-            <p class="customer_name">Unitas Vietnam</p>
-            
+
+            <div class="inn_slider">
+            {% for cq in site.data.customers_quote %}
+            <div class="inn_slider_item">
+              <p class="customer_quote">{{ cq.content }}</p>
+              <p class="customer_name">{{ cq.name }}</p>
+            </div>
+            {% endfor %}
+            </div>
             {% endif %}
 
-        </div>
 
+        </div>
 
     </div>
 
