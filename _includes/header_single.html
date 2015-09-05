@@ -6,7 +6,7 @@
     {% endif %}
 
 
-	<div class="pbg" style="background: #000 url('{% if page.cover %}{{ site.baseurl }}/{{ page.cover }}{% else %}{{ site.baseurl }}/{{ site.cover }}{% endif %}') no-repeat center center; padding-top: 15em;">
+	<div class="pbg" style="background: #000 url('{% if page.cover %}{{ site.baseurl }}/{{ page.cover }}{% elsif page.coverurl %}{{ page.coverurl }}{% else %}{{ site.baseurl }}/{{ site.cover }}{% endif %}') no-repeat center center; padding-top: 15em;">
 		<div class="container">
 			<div class="row">
 				<div class="inn_hbg col-xs-12 col-sm-10 col-lg-8 single-center-block">
