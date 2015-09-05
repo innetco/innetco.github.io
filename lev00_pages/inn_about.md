@@ -20,7 +20,7 @@ INNETCO hiện đang phát triển nhanh chóng, với hàng chục cán bộ nh
 
 Có thể nói rằng, hoạt động sở hữu trí tuệ ở Việt Nam còn mới mẻ, ít người am hiểu về lĩnh vực này. Công ty INNETCO xác định công tác tư vấn pháp luật là đặc biệt quan trọng, gồm tư vấn đăng ký bảo hộ các đối tượng sở hữu trí tuệ như sáng chế, nhãn hiệu, kiểu dáng, chỉ dẫn địa lý, quyền tác giả, thực thi quyền sở hữu trí tuệ, gia hạn và duy trì hiệu lực văn bằng bảo hộ…
 
-![minh hoa]({{ page.img2 }})
+![minh hoa]({{ page.img2 }}){: .img-responsive}
 
 Bên cạnh đó, để giúp các chủ sở hữu độc quyền sử dụng các đối tượng sở hữu công nghiệp và quyền tác giả được bảo hộ, INNETCO theo sự ủy quyền của khách hàng yêu cầu cơ quan nhà nước có thẩm quyền buộc người có hành vi xâm phạm quyền sở hữu trí tuệ phải chấm dứt hành vi xâm phạm và bồi thường thiệt hại. INNETCO thu thập chứng cứ vi phạm, theo dõi và phát hiện hành vi xâm phạm quyền, thông báo cho chủ văn bằng bảo hộ và đưa ra các biện pháp xử lý: yêu cầu chấm dứt hành vi xâm phạm, yêu cầu cơ quan Nhà nước có thẩm quyền xử lý hành vi vi phạm theo quy định của pháp luật. Chúng tôi hợp tác với các chuyên gia đầu ngành về việc xử lý các vụ hàng giả, hàng cạnh tranh không lành mạnh bảo vệ thương hiệu doanh nghiệp.
 
