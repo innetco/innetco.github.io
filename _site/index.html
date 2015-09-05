@@ -14,6 +14,7 @@
     
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
     <link href='http://fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700,700italic&subset=latin,vietnamese,latin-ext' rel='stylesheet' type='text/css'>
+    
     <link rel="stylesheet" href="/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/css/animated.min.css">
 	<link rel="stylesheet" href="/css/fl.min.css">
@@ -56,9 +57,8 @@
                 
                 
                 
+                
                 <li><a href="/about/">Giới thiệu chung</a></li>
-                
-                
                 
                 
                 
@@ -68,9 +68,9 @@
                 
                 
                 
+                
+                
                 <li><a href="/about/orgchart/">Sơ đồ tổ chức</a></li>
-                
-                
                 
                 
                 
@@ -87,7 +87,7 @@
                 
                 
                 
-                <li><a href="/about/prize/">Các giải thưởng</a></li>
+                <li><a href="/about/123/">Tạo mới</a></li>
                 
                 
                 
@@ -108,8 +108,8 @@
                 
                 
                 
-                <li><a href="/services/">Giới thiệu dịch vụ</a></li>
                 
+                <li><a href="/services/">Giới thiệu dịch vụ</a></li>
                 
                 
                 
@@ -121,10 +121,8 @@
                 
                 
                 
+                
                 <li><a href="/services/cddl/">Chỉ dẫn địa lý</a></li>
-                
-                
-                
                 
                 
                 
@@ -133,17 +131,18 @@
                 
                 
                 
+                
                 <li><a href="/services/bqtg/">Bản quyền tác giả</a></li>
+                
+                
                 
                 
                 
                 <li><a href="/services/nhh/">Nhãn hiệu</a></li>
                 
                 
-                
-                
-                
                 <li><a href="/services/daidien/">Đại diện SHTT</a></li>
+                
                 
                 
                 <li><a href="/services/tuvan/">Tư vấn SHTT</a></li>
@@ -294,16 +293,28 @@
 
             <img class="inn_logo" src="/images/logo_temp.svg" alt="logo">
             
+            
 
             <p class="section_title">nhận xét của khách hàng về dịch vụ</p>
             <hr class="section_hr center-block"></hr>
-            <p class="customer_quote">Trong thời buổi hàng nhái, hàng giả tràn lan như hiện nay, việc có được chứng nhận độc quyền giúp chúng yên tâm triển khai kinh doanh sản phẩm. Cám ơn Innetco đã nhiệt tình giúp đỡ chúng tôi hoàn tất các thủ tục pháp lý trong thời gian ngắn.</p>
-            <p class="customer_name">Unitas Vietnam</p>
+
+            <div class="inn_slider">
             
+            <div class="inn_slider_item">
+              <p class="customer_quote">Trong thời buổi hàng nhái, hàng giả tràn lan như hiện nay, việc có được chứng nhận độc quyền giúp chúng yên tâm triển khai kinh doanh sản phẩm. Cám ơn Innetco đã nhiệt tình giúp đỡ chúng tôi hoàn tất các thủ tục pháp lý trong thời gian ngắn.</p>
+              <p class="customer_name">Unitas Vietnam</p>
+            </div>
             
+            <div class="inn_slider_item">
+              <p class="customer_quote">Không khí hội thảo thật tuyệt vời và chúng tôi đã rất may mắn được đón nhận rất đông khách tham dự trong tất cả các hoạt động diễn ra trong khuôn khổ sự kiện này.</p>
+              <p class="customer_name">Microsoft</p>
+            </div>
+            
+            </div>
+            
+
 
         </div>
-
 
     </div>
 
@@ -621,7 +632,7 @@
 	<h4 class="btm_title">liên kết website</h4>
 	<ul class="btm_list list-unstyled">
 		
-		<li class="btm_list_item"><a href="#">Cơ quan SHTT Việt Nam</a></li>
+		<li class="btm_list_item"><a href="http://invenmark.com.vn/">Cơ quan SHTT Việt Nam</a></li>
 		
 		<li class="btm_list_item"><a href="#">Đoàn luật sư thành phố Hà Nội</a></li>
 		
@@ -710,8 +721,12 @@
 <script type="text/javascript" src="/js/fl.min.js"></script>
 <script type="text/javascript" src="/js/inn.js"></script>
 
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 <script type="text/javascript" src="/js/jquery.counterup.min.js"></script>
+
+
+
 <script>
     jQuery(document).ready(function( $ ) {
         $('.counter').counterUp({
@@ -720,6 +735,19 @@
         });
     });
 </script>
+
+
+<script>
+$(document).ready(function(){
+  $('.inn_slider').slick({
+    autoplay: true,
+      arrows: false,
+      dots: true
+  });
+});
+</script>
+
+
 
 
 </body>

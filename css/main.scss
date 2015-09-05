@@ -34,7 +34,11 @@ $header_text: #fff;
 $carousel-text-shadow: 0;
 $carousel-control-font-size:  3em;
 
+$slick-dot-size: 16px;
+
 @import "bootstrap";
+@import "slick";
+@import "slick-theme";
 
 .inn_top_disp { 
     display: table; margin: auto; position: relative; top: -5.8em; 
@@ -215,6 +219,11 @@ $carousel-control-font-size:  3em;
 .customer_quote {color: #aaa; font-style: italic; font-size: 1.4em; }
 .customer_name { font-size: 12px; color:$inn-color; margin-top: 3em; }
 .inn_logo { position: relative; top: -6.5em; }
+.customer_carousel { 
+    height: 200px;
+    border: 1px solid red; 
+}
+
 
 // activities section
 .activities_section { padding-top: 7em; padding-bottom: 5em; }

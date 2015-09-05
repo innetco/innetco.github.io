@@ -27,6 +27,7 @@
 - jquery counter up: https://github.com/bfintal/Counter-Up
 - parallax js: http://pixelcog.github.io/parallax.js/
 - feather light: https://github.com/noelboss/featherlight/
+- css animate: https://daneden.github.io/animate.css/
 
 ### references
 
