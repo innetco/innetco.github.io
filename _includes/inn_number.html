@@ -1,0 +1,27 @@
+<div class="section number_section">
+	<div class="parallax_number" data-parallax="scroll" data-image-src="{{ site.url }}/images/number_bg.jpg">
+		<div class="container">
+			<div class="row">
+                {% if page.lang == "en" %}
+				<p class="section_title col-xs-12 text-center">numbers say!</p>
+                {% else %}
+				<p class="section_title col-xs-12 text-center">những con số biết nói</p>
+                {% endif %}
+				<hr class="section_hr center-block"></hr>
+				{% for numb in site.data.number %}
+				<div class="col-xs-6 col-md-3 text-center">
+					<h1 class="number_big"><span class="counter">{{ numb.big }}</span></h1>
+                    {% if page.lang == "en" %}
+					<h4 class="number_title">{{ numb.title_e }}</h4>
+					<p class="number_desc">{{ numb.desc_e }}</p>
+                    {% else %}
+					<h4 class="number_title">{{ numb.title }}</h4>
+					<p class="number_desc">{{ numb.desc }}</p>
+                    {% endif %}
+					<hr class="tiny_hr">
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>

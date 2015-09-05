@@ -1,0 +1,20 @@
+# Site settings
+title: innetco
+phone: (04) 3832 8822
+email: email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: ""
+footer_copy: All right reserved.
+cover: images/single_cover_temp.jpg
+
+# define some class
+
+# site header image
+
+
+# Build settings
+markdown: kramdown

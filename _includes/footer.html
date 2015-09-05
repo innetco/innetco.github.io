@@ -1,0 +1,23 @@
+<footer class="site_footer">
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-7">
+<p class="small copy_text">
+    &copy; {{ site.time | date: '%Y' }}
+    {% if page.lang == "en" %}
+        All right reserved. Xem phiên bản <a href="{{ site.baseurl }}/" class="inn_lang_select text-uppercase">tiếng việt</a>
+    {% else %}
+        Innetco giữ bản quyền nội dung. Read in <a href="{{ site.baseurl }}/en/" class="inn_lang_select text-uppercase">english</a> version.
+    {% endif %}
+</p>
+            </div>
+        <div class="col-xs-12 col-sm-5 text-right">
+            {% if page.lang == "en" %}
+            <a href="#"><i class="fa fa-home"></i> Back to Top</a>
+            {% else %}
+            <a href="#"><i class="fa fa-home"></i> Về đầu trang</a>
+            {% endif %}
+        </div>
+</div>
+    </div>
+</footer>

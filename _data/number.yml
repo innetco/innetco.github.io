@@ -1,0 +1,28 @@
+- num:
+  big: "324"
+  title: "tài liệu tham khảo"
+  desc: "mo ta so lieu"
+  title_e: "this number title"
+  desc_e: "describe for this number"
+
+- num:
+  big: "457"
+  title: "văn bản pháp quy"
+  desc: "mo ta so lieu"
+  title_e: "what ever number"
+  desc_e: "describe for this number"
+
+- num:
+  big: "384"
+  title: "khách hàng toàn quốc"
+  desc: "mo ta so lieu"
+  title_e: "what this number says?"
+  desc_e: "write some interesting"
+
+- num:
+  big: "85"
+  title: "ấn phẩm đã xuất bản"
+  desc: "mo ta so lieu"
+  title_e: "crazy enough?"
+  desc_e: "describe for this number"
+

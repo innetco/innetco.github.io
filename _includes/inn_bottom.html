@@ -1,0 +1,49 @@
+
+<div class="section bottom_section">
+<div class="container">
+<div class="row">
+{% for btm in site.data.bottom %}
+<div class="btm_col col-xs-12 col-sm-6 col-md-3">
+	<h1 class="btm_icon"><i class="{{ btm.icon }}"></i></h1>
+    
+    {% if page.lang == "en" %}
+    
+	<h4 class="btm_title">{{ btm.title_e }}</h4>
+	<ul class="btm_list list-unstyled">
+		{% for item in btm.list %}
+		<li class="btm_list_item"><a href="/en{{ item.linkto }}">{{ item.name_e }}</a></li>
+		{% endfor %}
+		<li class="btm_social_list">
+            <ul class="list-inline">
+               {% for sc in btm.social %}
+                <li class="social_item"><a href="{{ sc.link }}"><i class="{{ sc.icon }}"></i></a></li>
+                {% endfor %}
+            </ul>
+		</li>
+	</ul>
+    
+    {% else %}
+    
+	<h4 class="btm_title">{{ btm.title }}</h4>
+	<ul class="btm_list list-unstyled">
+		{% for item in btm.list %}
+		<li class="btm_list_item"><a href="{{ item.linkto }}">{{ item.name }}</a></li>
+		{% endfor %}
+		<li class="btm_social_list">
+            <ul class="list-inline">
+               {% for sc in btm.social %}
+                <li class="social_item"><a href="{{ sc.link }}"><i class="{{ sc.icon }}"></i></a></li>
+                {% endfor %}
+            </ul>
+		</li>
+	</ul>
+    
+    {% endif %}
+    
+</div>
+{% endfor %}
+</div>
+</div>
+</div>
+
+

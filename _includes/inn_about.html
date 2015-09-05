@@ -1,0 +1,41 @@
+<div class="section about_section container">
+    
+    <div class="row">
+    <div class="col-xs-12 text-center">
+        
+        {% if page.lang == "en" %}
+            <p class="section_title">law services in hanoi from 2000</p>
+            <hr class="section_hr center-block"></hr>
+            <h3 class="welcome">welcome to innetco hoang phuc</h3>
+            <p class="sub_welcome">our main activities</p>
+        {% else %}
+            <p class="section_title">dịch vụ tư vấn luật tại hà nội</p>
+            <hr class="section_hr center-block"></hr>
+            <h3 class="welcome">chào mừng tới innetco hoàng phúc</h3>
+            <p class="sub_welcome">một số mảng hoạt động chính của công ty</p>
+        {% endif %}
+    
+     </div>
+</div>
+<div class="row">
+{% for service in site.data.about %}
+<div class="col-xs-12 col-sm-6 col-md-3">
+    
+    {% if page.lang == "en" %}
+    
+	<img class="img-responsive" src="{{ service.preview }}" alt="service">
+	<h4 class="sev_title text-center"><a href="{{ service.linkto }}">{{ service.name_en }}</a></h4>
+	<p class="sev_desc text-center">{{ service.desc_en }}</p>
+    
+    {% else %}   
+    
+	<img class="img-responsive" src="{{ service.preview }}" alt="service">
+	<h4 class="sev_title text-center"><a href="{{ service.linkto }}">{{ service.name }}</a></h4>
+	<p class="sev_desc text-center">{{ service.desc }}</p>
+    
+    {% endif %}
+    
+</div>
+{% endfor %}
+</div>
+</div>

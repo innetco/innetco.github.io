@@ -1,0 +1,19 @@
+<header class="header_single">
+    {% if page.lang == "en" %}
+        {% include navbar_en.html %}
+    {% else %}
+        {% include navbar.html %}
+    {% endif %}
+
+
+	<div class="pbg" style="background: #000 url('{% if page.cover %}{{ site.baseurl }}/{{ page.cover }}{% else %}{{ site.baseurl }}/{{ site.cover }}{% endif %}') no-repeat center center; padding-top: 15em;">
+		<div class="container">
+			<div class="row">
+				<div class="inn_hbg col-xs-12 col-sm-10 col-lg-8 single-center-block">
+					<div class="single_page_icon text-center"><i class="{{ page.icon }}"></i></div>
+					<h2 class="header_content text-center">{{ page.headline }}</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
