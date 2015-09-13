@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tạo mới"
+title: "Tạo mới"
 headline: "Thử tạo mới"
 permalink: /about/123/
 coverurl: http://lisatorracolaw.com/wp-content/uploads/2013/03/LisaTorracoSlider.jpg
