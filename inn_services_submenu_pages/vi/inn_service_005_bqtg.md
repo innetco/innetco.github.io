@@ -3,10 +3,10 @@ layout: page
 title: "Bản quyền tác giả"
 headline: "Đăng ký Bản quyền tác giả"
 permalink: /services/bqtg/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 05
+sub_level: 205
 ---
 
 ### Các yêu cầu đối với đăng ký bản quyền tác giả

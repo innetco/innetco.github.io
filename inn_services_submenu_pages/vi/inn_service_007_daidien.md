@@ -3,10 +3,10 @@ layout: page
 title: "Đại diện SHTT"
 headline: "Đại diện sở hữu trí tuệ"
 permalink: /services/daidien/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 07
+sub_level: 207
 ---
 
 ### Dịch vụ đại diện sở hữu công nghiệp và quyền tác giả

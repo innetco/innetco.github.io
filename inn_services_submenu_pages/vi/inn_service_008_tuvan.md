@@ -3,10 +3,10 @@ layout: page
 title: "Tư vấn SHTT"
 headline: "Tư vấn sở hữu trí tuệ"
 permalink: /services/tuvan/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 071
+sub_level: 208
 ---
 
 ### Tư vấn bảo hộ sở hữu trí tuệ và trợ giúp pháp lý

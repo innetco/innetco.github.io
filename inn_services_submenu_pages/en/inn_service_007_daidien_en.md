@@ -4,10 +4,10 @@ lang: en
 title: "Intellectual property services"
 headline: "Intellectual property services"
 permalink: /en/services/daidien/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 07
+sub_level: 207
 ---
 
 ### Intellectual property services

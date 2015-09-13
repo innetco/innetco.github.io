@@ -28,6 +28,7 @@
 - parallax js: http://pixelcog.github.io/parallax.js/
 - feather light: https://github.com/noelboss/featherlight/
 - css animate: https://daneden.github.io/animate.css/
+- slick: http://kenwheeler.github.io/slick/
 
 ### references
 

@@ -4,10 +4,10 @@ lang: en
 title: "Right enforcement works"
 headline: "Intellectual Property Right enforcement works"
 permalink: /en/services/thucthi/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 072
+sub_level: 208
 ---
 
 ### Intellectual Property Right enforcement works
