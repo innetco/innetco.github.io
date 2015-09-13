@@ -7,6 +7,8 @@ permalink: /services/attp/
 sub_nav: true
 parent: service
 sub_level: 210
+
+file1: /files/mau_dang_ky_attp.doc
 ---
 
 ## Công bố An toàn thực phẩm
@@ -79,4 +81,4 @@ Ghi chú: CA hợp lệ phải do trung tâm kiểm nghiệm độc lập có ch
 
 •   Nơi cấp: Cục An toàn vệ sinh thực phẩm – Bộ Y Tế
 
-Tải Biểu mẫu tài liệu
+Tải [Biểu mẫu tài liệu]({{ page.file1 | prepend: site.baseurl }})
