@@ -4,10 +4,10 @@ lang: en
 title: "Patent application"
 headline: "Patent application"
 permalink: /en/services/bqtg/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 05
+sub_level: 205
 ---
 
 ### Documents requirements

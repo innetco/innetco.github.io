@@ -3,10 +3,10 @@ layout: page
 title: "Thực thi SHTT"
 headline: "Thực thi sở hữu trí tuệ"
 permalink: /services/thucthi/
-cover: #
+
 sub_nav: true
 parent: service
-sub_level: 072
+sub_level: 209
 ---
 
 ### Thực thi quyền sở hữu trí tuệ và chuyển nhượng/chuyển quyền sử dụng đối tượng sở hữu công nghiệp
