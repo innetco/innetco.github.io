@@ -6,7 +6,7 @@ permalink: /services/cddl/
 
 sub_nav: true
 parent: service
-sub_level: 203
+sub_level: 205
 ---
 
 Chỉ dẫn địa lý là dấu hiệu dùng để chỉ sản phẩm có nguồn gốc từ khu vực, địa phương, vùng lãnh thổ hay quốc gia cụ thể.
