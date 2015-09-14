@@ -6,7 +6,7 @@ permalink: /services/nhh/
 
 sub_nav: true
 parent: service
-sub_level: 206
+sub_level: 204
 ---
 
 Nhãn hiệu hàng hóa là những dấu hiệu của một doanh nghiệp (hoặc tập thể các doanh nghiệp) dùng để phân biệt hàng hóa, dịch vụ của mình với hàng hóa, dịch vụ cùng loại của các doanh nghiệp khác.
