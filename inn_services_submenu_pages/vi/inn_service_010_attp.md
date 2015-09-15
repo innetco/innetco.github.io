@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Công bố ATTP"
+title: "Giấy phép vệ sinh ATTP"
 headline: "Công bố an toàn thực phẩm"
 permalink: /services/attp/
 
