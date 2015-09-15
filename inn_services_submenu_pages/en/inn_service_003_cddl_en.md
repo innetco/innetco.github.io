@@ -7,7 +7,7 @@ permalink: /en/services/cddl/
 
 sub_nav: true
 parent: service
-sub_level: 203
+sub_level: 205
 ---
 
 Protection of geographical indications (GIs) always plays an important role in commercial relations at national and international levels. Using misleading geographical indications will be contrary to honest practice in industry and commerce, confusing consumers to GI-protected products. Those using inappropriate GIs will obtain unfair advantages in comparison with their competitors. GIs are used for natural, agricultural, handicraft and industrial products such as: wood, sugar, fruits, wines, coffee, tea, cigarettes, weave, wool…GIs can make great contributions to establish prestige and reputation of a product in consumer’s mind as well as in the importation and exportation of the product. Therefore, GIs are considered as valuable properties of the nation, protection of such assets by law will not only enhance commercial values of GI-protected products but also preserve cultural values and traditional knowledge of the nation crystallized in the products. 
@@ -78,7 +78,7 @@ The State shall grant the right to use geographical indications to organizations
 
 ### Documents requirements
 - 02 applications of Geographical Indication registration (as form)
-- 02 descriptions indicating distinctive features/reputation/quality of the product containing the geographical indication, confirmed by the authorized body
+- 01 power of attorney with the signature and seal of the applicant (as form) 
+- 02 descriptions indicating distinctive features/reputation/quality of the product containing the geographical indication, confirmed by the authorized State agency.
 - 02 maps of area associated with the Geographical Indication.
-- 18 photos of Geographical Indication label, size no larger than 8cm x 8cm.
-- 01 power of attorney (as form)
+- 18 photos of Geographical Indication labels, with size 2cm x 2cm and not larger than 8cm x 8cm, specify the color if the labels having colored.
