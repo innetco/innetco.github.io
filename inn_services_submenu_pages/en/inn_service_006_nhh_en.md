@@ -3,11 +3,11 @@ layout: page
 lang: en
 title: "Mark"
 headline: "Trademark registation"
-permalink: /en/services/bqtg/
+permalink: /en/services/nhh/
 
 sub_nav: true
 parent: service
-sub_level: 206
+sub_level: 204
 ---
 
 ### 1. Definition
@@ -18,7 +18,7 @@ A mark shall be protected when it satisfies the following conditions:
 - Being a visible sign in the form of letters, words, drawings or images, including holograms, or a combination thereof, represented in one or more colors;
 - Being capable of distinguishing goods or services of the mark owner from those of other subjects. 
 
- ### 3. Signs not protected as marks
+### 3. Signs not protected as marks
  
  The following signs shall not be protected as marks:
  
@@ -47,3 +47,12 @@ A mark shall be considered as indistinctive if it is a sign or signs falling int
 - Signs identical with or similar to a geographical indication being protected if the use of such signs may mislead consumers as to the geographical origin of goods;
 - Signs identical with, containing or being translated or transcribed from geographical indications being protected for wines or spirits if such signs have been registered for use with respect to wines and spirits not originating from the geographical areas bearing such geographical indications;
 - Signs identical with or insignificantly different from another person’s industrial design which has been protected on the basis of an industrial design registration application with the filing date or priority date earlier than that of the mark registration application.
+
+### Documents requirements
+- 02 application of trademark registration
+- 01 power of attorney with the signature and seal of the applicant (as form) 
+- 01 copy of the document certifying the legal business (the business license, establishment decision ...)
+- 10 trademarks, with size from 2cm x 2cm and no more than 8cm, specify the color if the trademark having colored.
+- The list of goods or services bearing the trademark registration (consistent with the business sector)
+- Regulation on the use of collective marks / certification mark (for a collective mark or certification mark)
+- 02 map geographical area corresponding to area landmarks (if the mark contains elements landmarks).
