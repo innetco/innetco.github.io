@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Kiểu dáng công nghiệp"
+title: "Đăng ký kiểu dáng công nghiệp"
 headline: "Đăng ký kiểu dáng công nghiệp"
 permalink: /services/kdcn/
 
