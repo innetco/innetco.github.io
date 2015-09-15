@@ -1,9 +1,9 @@
 ---
 layout: page
 lang: en
-title: "Patent application"
-headline: "Patent application"
-permalink: /en/services/dksc/
+title: "Copyright application"
+headline: "Copyright application"
+permalink: /en/services/bqtg/
 
 sub_nav: true
 parent: service
