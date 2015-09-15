@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Chỉ dẫn địa lý"
+title: "Đăng ký chỉ dẫn địa lý"
 headline: "Đăng ký chỉ dẫn địa lý"
 permalink: /services/cddl/
 
