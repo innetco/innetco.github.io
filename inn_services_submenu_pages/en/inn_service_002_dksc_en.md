@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: en
-title: "Copyright application"
-headline: "Copyright application"
+title: "Patent application"
+headline: "Patent application"
 permalink: /en/services/dksc/
 
 sub_nav: true
@@ -37,7 +37,10 @@ Enterprises also benefit from granting licenses for others to utilize their pate
 For inventors, patent protection created by themselves may affirm their creative capacity, acknowledge moral benefits and furthermore, they will get deserved payments as provided by law if such inventions are commercialized which means they bring direct benefits for enterprises. This encourages people to create and bring their inventions into manufacturing products and seeking partners to sign licensing contracts.
 
 ## Documents requirements
-- 01 applications of Copyright registration (as form)
-- 02 copies of the work (original work or as photos taken from different angles with description)
-- Copy of documents attesting to legal existence and business activities (business license etc) certified by relevant authorities.  
-- 01 commitment letter from the author or organization.
+- 02 applications of patent registration (as form)
+- 02 descriptions of patent: name, field of application, state of technology, essence of technology, protection requirement.
+- 02 brief descriptions of pictures, diagrams, calculations (if applicable) clarifying the essence of the technological solution mentioned in the description.
+- 02 invention summaries: no more than 150 words.
+- 01 power of attorney with the signature and seal of the applicant (as form)
+- 01 first copy of application or certification of exhibition if the application requests to claim priority according to the International Treaty.  
+- 01 document confirming legal right of registration (inheritance certification, certification or agreement to transfer rights to file applications, working contracts) or certificate of the transference of right to file application.
