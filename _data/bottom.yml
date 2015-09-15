@@ -66,19 +66,16 @@
   list:
   - name: "Cơ quan SHTT Việt Nam"
     name_e: "List item in English"
-    linkto: "http://invenmark.com.vn/"
+    linkto: "www.noip.gov.vn/"
   - name: "Đoàn luật sư thành phố Hà Nội"
     name_e: "List item in English"
-    linkto: "#"
-  - name: "Đoàn luật sư Việt Nam"
-    name_e: "List item in English"
-    linkto: "#"
+    linkto: "http://luatsuhanoi.vn/"
   - name: "Liên đoàn luật sư Việt Nam"
     name_e: "List item in English"
-    linkto: "#"
+    linkto: "http://liendoanluatsu.org.vn/"
   - name: "Tra cứu thông tin SHTT"
     name_e: "List item in English"
-    linkto: "#"
+    linkto: "http://iplib.noip.gov.vn/"
 
 - btm:
   icon: "fa fa-book"
@@ -106,5 +103,15 @@
   - name: "Luật công nghệ cao"
     name_e: "List item in English"
     linkto: "#"
+  - name: "Bộ luật dân sự"
+    name_e: "List item in English"
+    linkto: "#"
+  - name: "Luật doanh nghiệp"
+    name_e: "List item in English"
+    linkto: "#"
+  - name: "Luật vệ sinh an toàn thực phẩm "
+    name_e: "List item in English"
+    linkto: "#"    
+
 
 
