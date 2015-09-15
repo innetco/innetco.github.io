@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nhãn hiệu"
+title: "Đăng ký nhãn hiệu"
 headline: "Đăng ký nhãn hiệu"
 permalink: /services/nhh/
 
