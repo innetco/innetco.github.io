@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bản quyền tác giả"
+title: "Đăng ký bản quyền tác giả"
 headline: "Đăng ký Bản quyền tác giả"
 permalink: /services/bqtg/
 
