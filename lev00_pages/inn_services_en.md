@@ -14,8 +14,6 @@ sub_level: 001
 img1: /images/inpost_temp.jpg
 ---
 
-Consultancy services on Intellectual Property Protection and Legal Assistance
- 
 INNETCO provides knowledge on Intellectual Property in general, regulations and consultancy on industrial Property and copyright in particular, such as: objects of protection, criteria and forms of protection, rights to file an application for certificates of protection. 
 
 INNETCO consults and assist clients completing the necessary documents and procedures to obtain the Certificates, 
