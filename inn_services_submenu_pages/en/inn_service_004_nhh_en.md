@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: en
-title: "Mark"
-headline: "Trademark registation"
+title: "Trademark Application"
+headline: "Trademark Application"
 permalink: /en/services/nhh/
 
 sub_nav: true
@@ -49,10 +49,11 @@ A mark shall be considered as indistinctive if it is a sign or signs falling int
 - Signs identical with or insignificantly different from another person’s industrial design which has been protected on the basis of an industrial design registration application with the filing date or priority date earlier than that of the mark registration application.
 
 ### Documents requirements
-- 02 application of trademark registration
-- 01 power of attorney with the signature and seal of the applicant (as form) 
-- 01 copy of the document certifying the legal business (the business license, establishment decision ...)
-- 10 trademarks, with size from 2cm x 2cm and no more than 8cm, specify the color if the trademark having colored.
-- The list of goods or services bearing the trademark registration (consistent with the business sector)
-- Regulation on the use of collective marks / certification mark (for a collective mark or certification mark)
-- 02 map geographical area corresponding to area landmarks (if the mark contains elements landmarks).
+- Two applications of trademark
+- Executed Power of Attorney (form attached) which is simply signed by the Applicant. No notarization or legalization is required
+- 01 Copy of Certificate of business registration.
+-10 specimens of trademark (not larger than 8 x 8 cm)
+- Original priority documents or certified copy of priority document. (if claiming the priority)
+- The list of goods/services bearing the trademark.
+- Regulations on the use of collective or certification marks
+- 02 Map showing the indicated territory (if the to-be-registered mark is a mark for certification of the geographical origin of a product).
