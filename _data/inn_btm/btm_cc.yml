@@ -4,7 +4,7 @@ title_e: "Web Links"
 list:
 - name: "Cơ quan SHTT Việt Nam"
   name_e: "List item in English"
-  linkto: "www.noip.gov.vn/"
+  linkto: "http://www.noip.gov.vn/"
 - name: "Đoàn luật sư thành phố Hà Nội"
   name_e: "List item in English"
   linkto: "http://luatsuhanoi.vn/"
