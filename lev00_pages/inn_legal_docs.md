@@ -158,7 +158,7 @@ Tải về "#"
 #### Thông tư hướng dẫn thi hành Luật Sở hữu trí tuệ
 Thông tư 18/2011/TT-BKHCN Ngày 22/7/2011 sửa đổi, bổ sung một số quy định của Thông tư số 01/2007/TT-BKHCN ngày 14/02/2007, được sửa đổi, bổ sung theo Thông tư số 13/2010/TT-BKHCN ngày 31/7/2010 và .....
 
-[Tải về] "https://vnexpress.net"
+[Tải về] Linkto: "https://vnexpress.net"
 
 ---
 
