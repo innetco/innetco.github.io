@@ -1,8 +1,8 @@
 icon: "fa fa-book"
-  title: "văn bản pháp luật"
-  title_e: "Law Documentation"
-  list:
-  - name: "Bộ luật hình sự (phần SHTT)"
+title: "văn bản pháp luật"
+title_e: "Law Documentation"
+list:
+- name: "Bộ luật hình sự (phần SHTT)"
     name_e: "List item in English"
     linkto: "#"
   - name: "Luật cạnh tranh"
