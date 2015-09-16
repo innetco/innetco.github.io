@@ -8,6 +8,11 @@ cover: "images/cover4.jpg"
 img1: thissite/images/inpost_temp.jpg
 ---
 
-# content of this page in english please!
+Address: No. 188, Lane 88 Tran Quy Cap Street,
+Van Chuong Ward, Dong Da District, Hanoi
 
-address, phone numbers, facebook, twitter...
+Tel: (84-4) 3832 8822
+
+Fax: (84-4) 3722 8909
+
+Email: innetco1@gmail.com
