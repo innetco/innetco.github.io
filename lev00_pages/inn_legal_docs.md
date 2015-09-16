@@ -11,7 +11,7 @@ img1: thissite/images/inpost_temp.jpg
 #### Văn bản mẫu Giấy ủy quyền
 Các đơn sở hữu trí tuệ đều phải có giấy ủy quyền
 
-Tải về ""
+[Tải về](http://google.com)
 
 ---
 
