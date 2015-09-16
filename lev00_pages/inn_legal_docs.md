@@ -151,14 +151,14 @@ Tải về ""
 #### Thông tư hướng dẫn thi hành Luật Sở hữu trí tuệ
 Bản hợp nhất Thông tư 01/2007/TT-BKHCN ngày 14/02/2007 hướng dẫn thi hành Nghị định số 103/2006/NĐ-CP ngày 22 /9/2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sở hữu ...
 
-Tải về ""
+Tải về "#"
 
 ---
 
 #### Thông tư hướng dẫn thi hành Luật Sở hữu trí tuệ
 Thông tư 18/2011/TT-BKHCN Ngày 22/7/2011 sửa đổi, bổ sung một số quy định của Thông tư số 01/2007/TT-BKHCN ngày 14/02/2007, được sửa đổi, bổ sung theo Thông tư số 13/2010/TT-BKHCN ngày 31/7/2010 và .....
 
-Tải về "https://www.dropbox.com/home?preview=Microsoft+Word+-+TT01-2008+Ban+hop+nhat+TT04-2012+_1_.pdf"
+[Tải về] "https://vnexpress.net"
 
 ---
 
