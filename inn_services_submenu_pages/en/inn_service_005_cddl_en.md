@@ -78,7 +78,7 @@ The State shall grant the right to use geographical indications to organizations
 
 ### Documents requirements
 - 02 applications of Geographical Indication registration (as form)
-- 01 power of attorney with the signature and seal of the applicant (as form) 
-- 02 descriptions indicating distinctive features/reputation/quality of the product containing the geographical indication, confirmed by the authorized State agency.
+- 02 descriptions indicating distinctive features/reputation/quality of the product containing the geographical indication, confirmed by the authorized body
 - 02 maps of area associated with the Geographical Indication.
-- 18 photos of Geographical Indication labels, with size 2cm x 2cm and not larger than 8cm x 8cm, specify the color if the labels having colored.
+- 18 photos of Geographical Indication labels, with size not larger than 8cm x 8cm.
+- 01 power of attorney (as form)
