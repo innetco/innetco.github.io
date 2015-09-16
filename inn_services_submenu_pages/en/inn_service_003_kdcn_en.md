@@ -28,7 +28,7 @@ The following subject matters shall not be protected as industrial designs:
 
 ### Documents requirements
 - 02 applications of Industrial Design registration (as form)
-- 01 power of attorney with the signature and seal of the applicant (as form)
 - 06 sets of photos/drawings of the Industrial Design from different views. Each set consists of 01 photo/drawing of perspective view, 01 photo/drawing of the front view, 01 photo/drawing of the back view, 01 photo/drawing of the right, 01 photo/drawing of the left, 01 photo/drawing of the top view, 01 photo/drawing of the bottom view. Each set must represent the essence of the Industrial Design (size 9cm x 12cm)
 - 01 Industrial Design description, indicating: name of the Industrial Design, field of application, detailed description of Industrial Design, indicating clearly the protection features, etc.
-The author's letter of industrial design must be transferred to the applicant, if the applicant receives registration rights from somebody else.
+Document certifying the right of registration, if the applicant receives registration rights from somebody else.
+- 01 power of attorney (as form)
