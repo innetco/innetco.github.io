@@ -28,7 +28,7 @@ Với tiêu chí “vì quyền lợi khách hàng”, INNETCO cam kết mang đ
 .
 Trân trọng,
  
-##Giám đốc##
+Giám đốc
 
 Thạc sỹ - Luật sư Đinh Lê Hoàng
 
