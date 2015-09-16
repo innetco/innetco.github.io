@@ -158,12 +158,12 @@ Tải về ""
 #### Thông tư hướng dẫn thi hành Luật Sở hữu trí tuệ
 Thông tư 18/2011/TT-BKHCN Ngày 22/7/2011 sửa đổi, bổ sung một số quy định của Thông tư số 01/2007/TT-BKHCN ngày 14/02/2007, được sửa đổi, bổ sung theo Thông tư số 13/2010/TT-BKHCN ngày 31/7/2010 và .....
 
-Tải về ""
+Tải về "https://www.dropbox.com/home?preview=Microsoft+Word+-+TT01-2008+Ban+hop+nhat+TT04-2012+_1_.pdf"
 
 ---
 
 #### Thông tư hướng dẫn thi hành Luật Sở hữu trí tuệ
 Thông tư 04/2009/TT-BKHCN ngày 27/03/2009 sửa đổi,bổ sung Thông tư số 01/2008/TT-BKHCN hướng dẫn việc cấp,thu hồi Thẻ giám định viên sở hữu công nghiệp và Giấy chứng nhận tổ chức đủ điều kiện hoạt động...
 
-[Tải về]({{ https://www.dropbox.com/home?preview=Microsoft+Word+-+TT01-2008+Ban+hop+nhat+TT04-2012+_1_.pdf }})
+[Tải về] "https://www.dropbox.com/home?preview=Microsoft+Word+-+TT01-2008+Ban+hop+nhat+TT04-2012+_1_.pdf"
 
