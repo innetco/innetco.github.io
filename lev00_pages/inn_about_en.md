@@ -29,6 +29,6 @@ With the object “for the growth of the client”, our mission is to provide cl
 
 Sincerely
 
-###Director###
+Director
 
 Master- Lawyer Dinh Le Hoang
