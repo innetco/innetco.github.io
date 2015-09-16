@@ -26,3 +26,6 @@ INNETCO consults and acts as Patent attorney to hands cases of Intellectual Prop
 INNETCO consults clients in the making the Agreements of Technology transfer, Agreement of Industrial property right, assessing the Intellectual property estate.
 
 INNETCO consults in the building, management and development of the Brands.
+
+
+![image]( {{ page.img1 | prepend: site.baseurl }})
