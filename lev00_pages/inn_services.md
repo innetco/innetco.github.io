@@ -1,7 +1,7 @@
 ---
 layout: page_services
-title: "Giới thiệu dịch vụ"
-headline: "Các dịch vụ Innetco cung cấp"
+title: "Tư vấn bảo hộ SHTT và trợ giúp pháp lý"
+headline: "Tư vấn bảo hộ sở hữu trí tuệ và trợ giúp pháp lý"
 permalink: /services/
 icon: "fa fa-star"
 cover: "images/cover3.jpg"
