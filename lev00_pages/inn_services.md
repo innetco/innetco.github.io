@@ -10,7 +10,7 @@ sub_nav: true
 parent: service
 sub_level: 001
 
-img1: /images/inpost_temp.jpg
+img1: https://www.dropbox.com/home?preview=so+do+to+chuc.jpg
 ---
 
 ### Tư vấn bảo hộ sở hữu trí tuệ và trợ giúp pháp lý
@@ -28,4 +28,4 @@ INNETCO tư vấn trong việc ký kết hợp đồng chuyển giao công ngh�
 INNETCO tư vấn chương trình xây dựng, quản lý và phát triển các nhãn hiệu tập thể, nhãn hiệu chứng nhận, chỉ dẫn địa lý…
 
 
-![image]( {{ page.img1 | prepend: site.baseurl }})
+![image](https://www.dropbox.com/home?preview=so+do+to+chuc.jpg)
