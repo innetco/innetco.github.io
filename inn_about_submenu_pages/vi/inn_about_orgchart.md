@@ -11,4 +11,4 @@ sub_level: 1003
 picture: /images/oc.jpg
 ---
 
-![so do to chuc]({{ page.picture | prepend: site.baseurl }})
+![so do to chuc](https://www.dropbox.com/home?preview=so+do+to+chuc.jpg)
