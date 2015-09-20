@@ -15,6 +15,6 @@ Phường Văn Chương, Quận Đống Đa, Hà Nội</p>
 
 <p>Fax: (84-4) 3722 8909</p>
 
-<p>Email: innetco1@gmail.com</p>
+<p>Email: info@innetcovn.com</p>
 </div>
 ![]({{ page.img1 }})
