@@ -45,3 +45,9 @@ full: http://drive.google.com/uc?export=view&id=0B7WZApu0ixrEeE9jdnhBVVlrRG8
 ```
 ![hình ảnh](https://drive.google.com/open?id=0B7WZApu0ixrEeE9jdnhBVVlrRG8)
 ```
+
+thay bằng
+
+```
+![hình ảnh](http://drive.google.com/uc?export=view&id=0B7WZApu0ixrEeE9jdnhBVVlrRG8)
+```
