@@ -13,7 +13,7 @@ preview: /images/a1.jpg
 ---
 
 
-### 1. Sáng chế/ giải pháp hữu ích là gì? Test
+### 1. Sáng chế/ giải pháp hữu ích là gì?
 - Sáng chế/ giải pháp hữu ích là sản phẩm, quy trình công nghệ, do con người tạo ra chứ không phải là những gì (đã tồn tại trong thiên nhiên) được con người phát hiện ra.
 - Thuộc tính cơ bản của sáng chế/ giải pháp hữu ích là đặc tính kỹ thuật bởi vì sáng chế/ giải pháp hữu ích là giải pháp kỹ thuật, tức là biện pháp kỹ thuật giải quyết một vấn đề.
 
