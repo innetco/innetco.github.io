@@ -9,4 +9,4 @@ parent: about
 sub_level: 1004
 ---
 
-## giới thiệu ban lãnh đạo cty
+## Giới thiệu ban lãnh đạo cty
