@@ -1,4 +1,18 @@
 - num:
+  big: "537"
+  title: "Đăng ký Quyền tác giả & Quyền liên quan"
+  desc: ""
+  title_e: "Đăng ký Quyền tác giả & Quyền liên quan"
+  desc_e: ""
+
+- num:
+  big: "15"
+  title: "Xác lập quyền Sáng chế"
+  desc: ""
+  title_e: "Xác lập quyền Sáng chế"
+  desc_e: ""
+
+- num:
   big: "123"
   title: "Xác lập quyền Kiểu dáng CN"
   desc: ""
@@ -7,16 +21,9 @@
 
 - num:
   big: "735"
-  title: "Xác lập quyền Nhãn hiệu"
+  title: "Xác lập quyền Nhãn hiệu, Chỉ dẫn địa lý"
   desc: ""
-  title_e: "Xác lập quyền Nhãn hiệu"
-  desc_e: ""
-
-- num:
-  big: "537"
-  title: "Đăng ký Quyền tác giả & Quyền liên quan"
-  desc: ""
-  title_e: "Đăng ký Quyền tác giả & Quyền liên quan"
+  title_e: "Xác lập quyền Nhãn hiệu, Chỉ dẫn địa lý"
   desc_e: ""
 
 - num:
@@ -27,8 +34,22 @@
   desc_e: ""
 
 - num:
-  big: "15"
-  title: "Sáng chế"
+  big: "45"
+  title: "Hủy/chấm dứt hiệu lực Văn bằng bảo hộ"
   desc: ""
-  title_e: "Sáng chế"
+  title_e: "Hủy/chấm dứt hiệu lực Văn bằng bảo hộ"
+  desc_e: ""
+
+- num:
+  big: "72"
+  title: "Phản đối cấp Văn bằng bảo hộ đối tượng sở hữu công nghiệp"
+  desc: ""
+  title_e: "Phản đối cấp Văn bằng bảo hộ đối tượng sở hữu công nghiệp"
+  desc_e: ""
+  
+  - num:
+  big: "88"
+  title: "Giám định đối tượng sở hữu công nghiệp"
+  desc: ""
+  title_e: "Giám định đối tượng sở hữu công nghiệp"
   desc_e: ""
